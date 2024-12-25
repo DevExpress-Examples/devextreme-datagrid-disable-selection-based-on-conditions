@@ -40,11 +40,11 @@ Note that you need to set the [remoteOperations](https://js.devexpress.com/Docum
 
 ## More Examples
 
-- [DataGrid for DevExtreme - How to show/hide or enable/disable Edit Form items based on another item's value](https://github.com/DevExpress-Examples/DataGrid-How-to-hide-disable-Edit-Form-items-based-on-another-item-s-value)
+- [DataGrid for DevExtreme - How to show/hide or enable/disable Edit Form items based on another item's value](https://github.com/DevExpress-Examples/devextreme-datagrid-hide-show-edit-form-items-dynamically)
 
-- [DataGrid for DevExtreme - Multiple cell selection](https://github.com/DevExpress-Examples/DataGrid-Multiple-Cell-Selection)
+- [DataGrid for DevExtreme - Multiple cell selection](https://github.com/DevExpress-Examples/devextreme-datagrid-multiple-cell-selection)
 
-- [DataGrid for DevExtreme - Update multiple values in a row after selecting an item in a lookup column editor](https://github.com/DevExpress-Examples/DataGrid---Update-multiple-values-in-a-row-after-selecting-an-item-in-a-lookup-column-editor)
+- [DataGrid for DevExtreme - Update multiple values in a row after selecting an item in a lookup column editor](https://github.com/DevExpress-Examples/devextreme-datagrid-update-multiple-cells)
 <!-- feedback -->
 ## Does this example address your development requirements/objectives?
 
